@@ -47,7 +47,7 @@ Read relative articles about these methods. The articles we need to read:
 4. Li M, Huang M, Shu F, et al. A risk-driven method for eXtreme programming release planning[C]//Proceedings of the 28th international conference on Software engineering. ACM, 2006: 423-430.
 5. Agarwal N, Karimpour R, Ruhe G. Theme-based product release planning: An analytical approach[C]//System Sciences (HICSS), 2014 47th Hawaii International Conference on. IEEE, 2014: 4739-4748.
 6. Karim M R, Ruhe G. Bi-objective genetic search for release planning in support of themes[C]//International Symposium on Search Based Software Engineering. Springer International Publishing, 2014: 123-137.
-7. Sz艖ke 脕. A feature partitioning method for distributed agile release planning[C]//International Conference on Agile Software Development. Springer Berlin Heidelberg, 2011: 27-42.
+7. Szoke. A feature partitioning method for distributed agile release planning[C]//International Conference on Agile Software Development. Springer Berlin Heidelberg, 2011: 27-42.
 
 ##### 2017/2/02
 Communicate with other students in this course. To select one prioritization method and one release planning method to complete our release planning.
