@@ -29,7 +29,7 @@ Read relative articles about these methods. The articles we need to read:
 4. Leonov A S. Ill-posed Problems in Natural Sciences: Proceedings of the International Conference Held in Moscow, August 19-25, 1991[M]. VSP, 1992.
 5. Gaudenzi B, Borghesi A. Managing risks in the supply chain using the AHP method[J]. The International Journal of Logistics Management, 2006, 17(1): 114-136.
 6. Walker J S, Jorasch J A. System and method for future value wagering: U.S. Patent 6,110,042[P]. 2000-8-29.
-7. Crostack, Hors-Artur , "The suitability of聽Kano's聽method for the requirements of the cutlery industry: Results of a case study associated with an approach to widen聽Kano's聽theory"
+7. Crostack, Hors-Artur , "The suitability of Kano's method for the requirements of the cutlery industry: Results of a case study associated with an approach to widen Kano's theory"
 8. Karisson, Lena, "Pair-wise comparisons versus planning game partitioning-experiments on requirements prioritization techniques", 2007
 
 ##### 2017/1/27
