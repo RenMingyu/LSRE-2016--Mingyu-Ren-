@@ -1,7 +1,7 @@
 ## RP LOG for Release Planning Assignment
 
-#### Mingyu Ren
-
+#### Mingyu Ren 
+#### student number 9403280648
 ##### 2017/1/18
 Launch this assignment. Start working on release planning. Download the description of release planning assignment and all the 208 requirements.
 
