@@ -16,13 +16,13 @@ The complexity of software-intensive system is increasing nowadays [1]. The key 
 
 ####• What is the order of magnitude of the number of requirements we are discussing?
 
-	The order of magnitude of large-scale requirements engineering (LSRE) is ~1000 requirements.
+The order of magnitude of large-scale requirements engineering (LSRE) is ~1000 requirements.
 	
 Small-scale requirements engineering (SSRE) is ~10 requirements. Medium-scale requirements engineering (MSRE) is ~100 requirements. Very large-scale requirements engineering (VLSRE) is ~10000 requirements.
 
 ####• Read up on and summarise [Strategic] Release Planning
 
-	Release planning is the plan for next release: the things that need to complete and the estimated time for completing the things. 
+Release planning is the plan for next release: the things that need to complete and the estimated time for completing the things. 
 	
 In agile development project, release planning is an important part. Firstly, it can be able to evaluate the total time allocation, so that the manager could know about the deliverable time, as well as the milestones for risk evaluation and management. Secondly, the release planning usually indicates which features for each iteration and how many iterations we need to have. So the managers can allocate the developers for different iterations. Thirdly, good release planning could improve the efficiency of the project development. If team member knows what to do next, they would finish their current soon. At last, release planning can be able to show how many features should be finished in a iteration. The developers can know the priority of these features based on release planning.
 
@@ -30,7 +30,7 @@ In agile development project, release planning is an important part. Firstly, it
 
 ####– Ruhe “The art and science of release planning”, plus some more recent works on the EVOLVE methods.
 
-	This paper introduced the release planning and what a good release planning is. Also, it described two approaches for release planning: the art of release planning and the science of release planning.
+This paper introduced the release planning and what a good release planning is. Also, it described two approaches for release planning: the art of release planning and the science of release planning.
 
 The art of release planning related to human intuition, communication, capabilities. It aims to negotiate conflicting objectives and constraints. This method for release planning is because the organization lack of emphasis on processes, and the process of release planning is immaturity. The science of release planning solves the problem by formalizing them. The specialized optimization problems could help developers to know about the specific problem, so that they can solve the problems flexibility and efficiency.
 
@@ -60,7 +60,7 @@ Steps 6: set candidate requirements. In order to know the requirements quality i
 	
 Step 7: identify cost dependencies. It is necessary to know the relationship of cost among QR, and some potential dependencies should be identified.
 
-	In general, the paper shows the guidelines of QUPER model in detail. This paper mainly emphasizes the combination of the practical study and the guidelines for the QUPER model, as well as the importance of the combination.
+In general, the paper shows the guidelines of QUPER model in detail. This paper mainly emphasizes the combination of the practical study and the guidelines for the QUPER model, as well as the importance of the combination.
 
 For the paper: it is comprehensive and specific paper for introducing QUPER model. It is good to use a practical case study to practice the QUPER model. The method can be able to improve the accuracy of development, evolvement, and refinement process. According to this paper, it is important to combine the guidelines and practical condition; it is the improvement for future work.
 
@@ -68,7 +68,7 @@ Against the paper: maybe one case study has some limitations. This example and t
 
 ####– Berntsson Svensson & Olsson “Introducing support for release planning of quality requirements –an industrial evaluation of the QUPER model”
 
-	This paper shows an industrial evaluation of the QUPER model. With the development of software industry, market-driven product development and release planning become more and more important. If the product development lack of a good release planning, it could lead to the customer dissatisfaction and market loss. So it is critical to use QUPER model for release planning. There are three steps to carry out QUPER model. Step 1 is problem definition, step 2 is model definition, step 3 is model validation. The author describes an industrial evaluation by introducing the QUPER model at Sony Ericsson. 
+This paper shows an industrial evaluation of the QUPER model. With the development of software industry, market-driven product development and release planning become more and more important. If the product development lack of a good release planning, it could lead to the customer dissatisfaction and market loss. So it is critical to use QUPER model for release planning. There are three steps to carry out QUPER model. Step 1 is problem definition, step 2 is model definition, step 3 is model validation. The author describes an industrial evaluation by introducing the QUPER model at Sony Ericsson. 
 
 According to the evaluation, the author get conclusion that the QUPER model can be able to use in high-level decision making for quality requirements. Also, the industrial evaluation indicated it is easy to learn and use QUPER model. This model is feasible and suitable for most of domain, but we need to analyze the current market and practical condition. The challenge of the model is that the breakpoint value could not be identified accurately and specifically.
 
@@ -78,7 +78,7 @@ Against the paper: the research is good in this paper, but the author still need
 
 ####– Regnell, Beremark, Eklundh, “A market-driven requirements engineering process: results from an industrial process improvement programme”
 
-	This paper shows an industrial requirements engineering (RE) process: REPEAT (Requirements Engineering ProcEss At Telelogic). REPEAT is use to elicit, select, and manage the product requirements. The Telelogic for requirements engineering called Telelogic Tau. Telelogic Tau is an integration of COTS (Commercial off-the-shelf) components. It is an in-house development process. Based on different customers and market segment, it can tailor different specific requirements. REPEAT includes many requirements engineering activities, as well as the requirements selection and release planning. Some actors in REPEAT as follow: requirements management group (RQMG), issuer, customers and users, requirements team, construction team, test team, expert, and requirements database (RQDB). 
+This paper shows an industrial requirements engineering (RE) process: REPEAT (Requirements Engineering ProcEss At Telelogic). REPEAT is use to elicit, select, and manage the product requirements. The Telelogic for requirements engineering called Telelogic Tau. Telelogic Tau is an integration of COTS (Commercial off-the-shelf) components. It is an in-house development process. Based on different customers and market segment, it can tailor different specific requirements. REPEAT includes many requirements engineering activities, as well as the requirements selection and release planning. Some actors in REPEAT as follow: requirements management group (RQMG), issuer, customers and users, requirements team, construction team, test team, expert, and requirements database (RQDB). 
 	
 The milestones at pre-defined dates can separate the REPEAT into five phases:
 
