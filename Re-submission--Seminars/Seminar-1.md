@@ -99,7 +99,7 @@ Against the paper: the 11 companies are very limited to get the accuracy result,
 
 ####– J. Karlsson, K. Ryan, “A cost-value approach for prioritizing requirements”, IEEE Software, 1997.
 	
-	This paper describes a cost-value approach to manage and prioritize the requirements. To satisfy the customers’ needs, the process of prioritizing the software requirement should be fast and simple, as well as having trustworthy results. The three factors to meet the stakeholders’ satisfaction are quality, cost, and delivery [6]. The cost-value approach focuses on the relative value and cost of stakeholders. This approach has five steps for prioritizing requirements.
+This paper describes a cost-value approach to manage and prioritize the requirements. To satisfy the customers’ needs, the process of prioritizing the software requirement should be fast and simple, as well as having trustworthy results. The three factors to meet the stakeholders’ satisfaction are quality, cost, and delivery [6]. The cost-value approach focuses on the relative value and cost of stakeholders. This approach has five steps for prioritizing requirements.
 
 1.	The requirements engineers should review the requirements carefully in order to clear the statement.
 2.	AHP’s pairwise comparison method should be use to assess the relative value.
