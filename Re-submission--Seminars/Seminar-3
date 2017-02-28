@@ -28,3 +28,6 @@ This paper shows an empirical investigation with 219 respondents of obsolete sof
 For the paper: With the development of software requirements management, many ongoing and improved requirements were investigated. There are few research investigate the obsolete software requirements. Therefore, the investigation about the obsolete software requirements in this paper could make a great contribution for future software development process. Also, the result of the investigation is from 219 respondents in 45 countries, so it could fully indicate OSRs methods are an important challenge for companies, especially large-scale companies. 
 
 Against the paper: The empirical study for OSRs from respondents is a manual process, during the research, there might have some relative errors from human beings we cannot avoid. Therefore, we still need more researches in the obsolete software requirements area. Also, the author should have risk management and error analysis.
+##Reference
+
+[1] Wnuk K, Regnell B, Karlsson L. Visualization of feature survival in platform-based embedded systems development for improved understanding of scope dynamics[C]//Requirements Engineering Visualization, 2008. REV'08. IEEE, 2008: 41-50.
