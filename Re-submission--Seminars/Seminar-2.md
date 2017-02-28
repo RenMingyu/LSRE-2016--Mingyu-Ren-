@@ -23,7 +23,7 @@
 
 ####– v.d. Weerd & Brinkkemper “Towards a reference framework for software product management”
 
-	This paper proposed a reference framework for software product management to manage the product. The software product management lack of specific research and educational purposes [2], so the paper provides a reference framework of the structure of software product management. The reference framework includes four parts, and it shows in a figure to help us to understand the process of reference framework clearly, the four main parts as follow:
+This paper proposed a reference framework for software product management to manage the product. The software product management lack of specific research and educational purposes [2], so the paper provides a reference framework of the structure of software product management. The reference framework includes four parts, and it shows in a figure to help us to understand the process of reference framework clearly, the four main parts as follow:
 
 1.	Portfolio management: on the top of the reference framework, the portfolio management has four processes: partnering & contracting, market trend identification, product lifecycle management, and product line identification. It is based on the company board, market and partner companies.
 2.	Product roadmapping: roadmapping has dependency relationship with such as related product, technology changes, as well as the distributed development [3]. The product roadmapping works based on the product lines of portfolio management.
@@ -38,11 +38,11 @@ Against the paper: the author should provide some case for the reference framewo
 
 ####– Regnell & Brinkkemper “Market-Driven Requirements Engineering for Software Products” (Chapter 13 in Engineering and Management of Software Requirements) 
 
-	This paper introduced the Market-Driven Requirements Engineering (MDRE) in detail. It shows the characteristics and challenges of MDRE. MDRE consists of elicitation, specification, and validation of requirements engineering. It also includes the development processes activities such as release management and market analysis. 
+This paper introduced the Market-Driven Requirements Engineering (MDRE) in detail. It shows the characteristics and challenges of MDRE. MDRE consists of elicitation, specification, and validation of requirements engineering. It also includes the development processes activities such as release management and market analysis. 
 
-	The main characteristics of MDRE: the decisions always made by developing organization. In the product lifetime, the requirements have continuous flow. The requirements volume would become larger and larger. Most of the requirements described informally. The product could delivery in multiple releases. Time-to-market and return-on-investment are important points in release planning.
+The main characteristics of MDRE: the decisions always made by developing organization. In the product lifetime, the requirements have continuous flow. The requirements volume would become larger and larger. Most of the requirements described informally. The product could delivery in multiple releases. Time-to-market and return-on-investment are important points in release planning.
 
-	The main challenges in MDRE described in this paper divided into seven points as follow:
+The main challenges in MDRE described in this paper divided into seven points as follow:
 
 1.	Balancing market pull and technology. In MDRE, the practical condition and the technologies could change frequently. So the balancing is necessary.
 2.	Chasm between marketing and development. In the process of development, the difference could appear between developers and customers. So the communication and management are important in MDRE. We need to try to reduce the difference and improve the quality of product.
@@ -60,7 +60,7 @@ Against the paper: the projects in different types and different scales have dif
 
 ####– D. Leffingwell “Scaled Agile Framework” (Note, there is no good article on this, but his webpage provides some help).
 
-	The provided webpage is a figure of software development process for lean software and system engineering. Scaled Agile Framework (SAFe) has four levels and a foundation layer.
+The provided webpage is a figure of software development process for lean software and system engineering. Scaled Agile Framework (SAFe) has four levels and a foundation layer.
 
 1.	Team level: based on the backlog in each team, they all need to define, build, and test stories. In each sprint, the team should deliver the value.
 2.	Program level: SAFe team has a virtual program structure called the agile release train (ART). The team would plan, commit, execute, inspect, and adapt with the stakeholders together. 
@@ -74,7 +74,7 @@ There are many advantages of SAFs, it is easy for us to use, and it can be used 
 
 ####– Wnuk et al. “Are You Biting Off More Than You Can Chew? A Case Study on Causes and Effects of Overscoping in Large-Scale Software Engineering”
 
-	It is a case study about the overscoping in large-scale software engineering. And it aims to know if agile requirements engineering affect overscoping. It is important to manage the scope of a software development project. Based on the interview, the author proposed seven causes of overscoping.
+It is a case study about the overscoping in large-scale software engineering. And it aims to know if agile requirements engineering affect overscoping. It is important to manage the scope of a software development project. Based on the interview, the author proposed seven causes of overscoping.
 
 1.	Continuous requirements inflow from multiple channels. In large scale projects, the requirements are uncontrollable and potential, so it is hard to manage and balance the requirements.
 2.	No overview of software resource availability. When the development capacity is low, it could cause the lack of overview, then cause the overscoping.
@@ -92,7 +92,7 @@ Against the paper: I did’ t found the advantages of this paper.
 
 ####– Wnuk et al. “Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering”
 
-	This paper shows a case study to confirm that lead-time is important factor for decision making in Large-Scale Requirements Engineering. For the analysis of decision making, the results are from a survey among 50 practitioners which come from several countries. The result can be summarized as seven points.
+This paper shows a case study to confirm that lead-time is important factor for decision making in Large-Scale Requirements Engineering. For the analysis of decision making, the results are from a survey among 50 practitioners which come from several countries. The result can be summarized as seven points.
 
 1.	More product could increase the lead-time to make a decision.
 2.	If many products are affected, the request can be changed.
@@ -110,7 +110,7 @@ Against the paper: I think the decision characteristics should be considered in 
 
 ####– P. Carlshamre, K. Sandahl, M. Lindvall, B. Regnell, J. Natt och Dag, “An industrial survey of requirements interdependencies in software product release planning”, in Proceedings of the fifth IEEE International Symposium on Requirements Engineering, 2001.
 
-	The paper used a survey to find the requirements interdependencies of software product release planning from five different companies. The author proposed six interdependencies: AND, REQUIRES, TEMPORAL, CVALUE, ICOST, and OR. 
+The paper used a survey to find the requirements interdependencies of software product release planning from five different companies. The author proposed six interdependencies: AND, REQUIRES, TEMPORAL, CVALUE, ICOST, and OR. 
 
 AND is R1 and R2 requires to function each other. It is traced in requirements management tool. REQUIRES is “on way” required to function. TEMPORAL is that R1 should be implemented before R2 and vice versa. CVALUE is that R2 could affect the value of R2 and the value could be positive or negative. ICOST is that R1could affect the cost of implementing R2, and the value could be positive or negative. OR is that only one of R1 or R2 could be implemented.
 
