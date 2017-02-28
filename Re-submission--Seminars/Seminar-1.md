@@ -10,27 +10,27 @@ IVA analysis: internal value analysis. It aims to identify and evaluate the orga
 
 ####• What tools are available for Continuous Integration? – Try one out (build something, have it run tests automatically, . . .), and write up your experiences.
 
-	As an important part in agile software development, continuous integration (CI) can help the developers avoid some code errors and improve the quality of the code. There are some open source continuous integration tools, such as, Jenkins, Buildbot, Travis CI, Strider, Go, Integrity and so on. 
+As an important part in agile software development, continuous integration (CI) can help the developers avoid some code errors and improve the quality of the code. There are some open source continuous integration tools, such as, Jenkins, Buildbot, Travis CI, Strider, Go, Integrity and so on. 
 
-	According to my experience, Travis CI is one of the easiest continuous integration server used in our own server. It can be able to link the GitHub account to get the relevant permissions and update the travis. Buildbot is developed in Python, it can allow us to grow with our own requirements. The processes is simple and the unique needs can be satisfied.
+According to my experience, Travis CI is one of the easiest continuous integration server used in our own server. It can be able to link the GitHub account to get the relevant permissions and update the travis. Buildbot is developed in Python, it can allow us to grow with our own requirements. The processes is simple and the unique needs can be satisfied.
 
 ####• What is technical product management?
 
-	In Market-Driven Requirements Engineering (MDRE), the modern enterprises must produce products in line with social needs promptly, in order to obtain the corresponding economic benefits. So the enterprise must have large number of technical staff. 
+In Market-Driven Requirements Engineering (MDRE), the modern enterprises must produce products in line with social needs promptly, in order to obtain the corresponding economic benefits. So the enterprise must have large number of technical staff. 
 
-	The technical product management must have technical product managers. They often have deep technical expertise. A good technical product manager could responsible for strategy, ideation, roadmapping, features, and go-to-market. The technical product management usually used to plan, develop and implement technical capabilities, in order to complete organizational strategy and operational objectives.
+The technical product management must have technical product managers. They often have deep technical expertise. A good technical product manager could responsible for strategy, ideation, roadmapping, features, and go-to-market. The technical product management usually used to plan, develop and implement technical capabilities, in order to complete organizational strategy and operational objectives.
 
 ####• What is roadmapping? How can you do it large scale?
 
-	Roadmapping is a technology of matching short-term and long-term goals in order to achieve the goals [2]. The plan applies to emerging technology [3]. The roadmapping can helps to reach a consensus of all the requirements. And the mechanism is helpful for forecast technology development. Also, the framework can coordinate the technology development [4]. The process of roadmapping has three phases: preliminary phase, development phase, and follow-up activity phase.
+Roadmapping is a technology of matching short-term and long-term goals in order to achieve the goals [2]. The plan applies to emerging technology [3]. The roadmapping can helps to reach a consensus of all the requirements. And the mechanism is helpful for forecast technology development. Also, the framework can coordinate the technology development [4]. The process of roadmapping has three phases: preliminary phase, development phase, and follow-up activity phase.
 
-	To build the roadmapping, the participants should have professional knowledge and skills. For the large scale, the requirements engineering and roadmapping are complex. So the participants should analyze the needs, products, technology clearly to ensure the accuracy of roadmapping
+To build the roadmapping, the participants should have professional knowledge and skills. For the large scale, the requirements engineering and roadmapping are complex. So the participants should analyze the needs, products, technology clearly to ensure the accuracy of roadmapping
 
 ##Article summary:
 
 ####– Gorschek & Wohlin “Requirements Abstraction Model”
 
-	With the development of market-driven requirements engineering, the product managers have the challenge about how to make the different stream requirements ranging from abstract to technically detail. This paper introduces a model called Requirements Abstraction Model (RAM) to solve the challenge. There are some benefits of RAM as follow: 
+With the development of market-driven requirements engineering, the product managers have the challenge about how to make the different stream requirements ranging from abstract to technically detail. This paper introduces a model called Requirements Abstraction Model (RAM) to solve the challenge. There are some benefits of RAM as follow: 
 
 1.	The product strategies could provide an assurance for all requirements, so that the requirements could not violate the overall goals of the management.
 2.	All the requirements are in an abstraction for initiating a development project. This ensures the projects can be able to satisfy the requirements.
@@ -45,9 +45,9 @@ Against the paper: the requirements abstract model is good for requirements engi
 
 ####– Khurum & Gorschek “A method for early requirements triage and selection utilizing product strategies”
 
-	This paper describes a method for selecting the requirements and utilizing strategies of early requirements triage. In market driven requirements engineering (MDRE), the method for early requirements triage and selection (MERTS) aims to create product strategies from both strategic and technical views. Also, the requirements could be triaged by MERTS method and the managers could select the suitable requirements for realization. 
+This paper describes a method for selecting the requirements and utilizing strategies of early requirements triage. In market driven requirements engineering (MDRE), the method for early requirements triage and selection (MERTS) aims to create product strategies from both strategic and technical views. Also, the requirements could be triaged by MERTS method and the managers could select the suitable requirements for realization. 
 
-	The paper points out three parts of MERTS:　
+The paper points out three parts of MERTS:　
 
 1.	Early requirements triage: this part use three steps to build the initial product strategy for the requirements triage. The three steps are: specify, assign weights, and compare requirements. 
 2.	Requirements selection for release: in this part, there are two steps for requirements selection. First we need to specify product-technology roadmap, and then estimate resources.
@@ -61,7 +61,7 @@ Against the paper: the validation of MERTS has limitations in scope. In future w
 
 ####– Gorschek & Davis “Requirements Engineering. In search of dependent variables”
 
-	The paper describes a framework of dependent variables for the requirements engineering quality assessment. The targets assessment in many companies based on the requirements process and the primary product. The requirements process change dependent variables have five levels: 
+The paper describes a framework of dependent variables for the requirements engineering quality assessment. The targets assessment in many companies based on the requirements process and the primary product. The requirements process change dependent variables have five levels: 
 
 1.	Requirements phase: this phase includes the requirements cost and time, the requirements quality.
 2.	Project: in this phase, the project level equated with project success. The dependent variables related to project cost and time, project estimates, and degree of requirements change.
@@ -77,7 +77,7 @@ Against the paper: the requirements engineering quality assessment is complex pr
 
 ####– R. Berntsson Svensson, T. Gorschek, B. Regnell, R. Torkar, A. Shahrokni, R. Feldt (2012) “Quality Requirements in Industrial Practice – an extended interview study at eleven companies”, IEEE Transactions on Software Engineering, vol.38(4), pp. 923-935
 	
-	To ensure the quality of the product, it is important to balance the competing quality requirements (QR). The paper collected data from 11 software companies for the interview study. There are four contributions of this interview study:
+To ensure the quality of the product, it is important to balance the competing quality requirements (QR). The paper collected data from 11 software companies for the interview study. There are four contributions of this interview study:
 
 1.	The comparison of how to handle QR in two cases and the impact in handling process.
 2.	The comparison of the perceptions and priorities of the product and project management.
